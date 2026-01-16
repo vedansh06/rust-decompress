@@ -3,12 +3,13 @@
 A minimal, fast and simple ZIP decompression tool written in Rust. 🚀
 
 ✨ Features
-Extracts .zip archives 📦
-Automatically creates directories 📁
-Preserves file structure and comments 📝
-Displays extracted file sizes 📏
-Lightweight & fast ⚡
-Written entirely in Rust 🦀
+
+- Extracts .zip archives 📦
+- Automatically creates directories 📁
+- Preserves file structure and comments 📝
+- Displays extracted file sizes 📏
+- Lightweight & fast ⚡
+- Written entirely in Rust 🦀
 
 📥 Installation
 
